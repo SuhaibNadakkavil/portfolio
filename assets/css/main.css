@@ -698,7 +698,7 @@ section,
 }
 
 .hero h2 {
-  margin: 0;
+  margin-top: 200px;
   font-size: 64px;
   font-weight: 700;
 }
@@ -721,7 +721,10 @@ section,
   .hero p {
     font-size: 20px;
   }
+
+
 }
+
 
 /*--------------------------------------------------------------
 # About Section
